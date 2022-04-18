@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(widgetbook LANGUAGES CXX)
+project(fntshopping LANGUAGES CXX)
 
-set(BINARY_NAME "widgetbook")
+set(BINARY_NAME "fntshopping")
 
 cmake_policy(SET CMP0063 NEW)
 
